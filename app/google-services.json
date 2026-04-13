@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907773606850",
+    "project_id": "cs330-pz-jana-kostic-5937",
+    "storage_bucket": "cs330-pz-jana-kostic-5937.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907773606850:android:06e93afa13992a4b38745b",
+        "android_client_info": {
+          "package_name": "com.example.cs330_pz_jana_kosti_5937"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpsrVgAKwzpoNomjNUGB9bpZtFWFGXaa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
